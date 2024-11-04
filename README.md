@@ -1,7 +1,6 @@
-# Instrumento de Evaluación Unidad 2 ---------IoT
-# Autor: Delgado Manzano Carmen Catalina    GDS0643
 
 # Evaluación de la Unidad 2 - Principios de IoT
+# Autor: Delgado Manzano Carmen Catalina    GDS0643
 
 ## Índice
 1. [Ejercicio Práctico Integral](#ejercicio-práctico-integral)
@@ -53,7 +52,7 @@ Avance documentado en el curso de Python en NetAcad.
 ### Coevaluación
 En esta sección se incluye la retroalimentación para el trabajo de un compañero.
 
-- **Retroalimentación a [Nombre del Compañero]**:
+- **Retroalimentación a [José Francisco]**:
   - **Aspectos Positivos**: [Lo que hizo bien]
   - **Áreas de Mejora**: [Sugerencias para mejorar]
   - **Comentarios Técnicos**: [Observaciones sobre el circuito o código]
