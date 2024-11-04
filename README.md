@@ -16,7 +16,7 @@ En esta sección, completé un ejercicio que demuestra el encendido, apagado o c
 
 - **Descripción**: [Descripción breve de lo que hace el ejercicio]
 - **Código y Circuito**: Disponible en la carpeta [`Ejercicio_Practico_Integral`](Ejercicio_Practico_Integral)
-- **Video de demostración**: [Enlace al video de demostración](<img="https://drive.google.com/drive/u/1/folders/1o47CB6RPJIRe-7IU7Vzuq3KmIt1-O2Zt"></img>)
+- **Video de demostración**: [Enlace al video de demostración](https://drive.google.com/drive/u/1/folders/1o47CB6RPJIRe-7IU7Vzuq3KmIt1-O2Zt)
 
 ---
 
