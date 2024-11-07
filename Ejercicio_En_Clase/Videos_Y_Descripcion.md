@@ -47,7 +47,6 @@ el buzzer pueda transmitirlas con cierta frecuencia, en este caso tenemos cancio
 |Opciones| Codigo | Video |
 |--|--|--|
 | Descripcion | En la pantalla oled se mostrara un dibujo de un bote y con ayuda de un potenciometro al momento de girarlo contiene distintos valores y estos deben ser mostrados en la pantalla oled en porcentaje y respecto a ese porcentaje el bote debe de estar llenado a ese porciento |
-
 | Python | [`Ver code `](potenciometro.py) | [Ver video](https://drive.google.com/file/d/19M_GMAKjaOJvWSm0gus6AmKF994hN5I0/view?usp=sharing)|
 | Arduino|  [`Ver code `](potenciometro.ino) | [Ver video](https://drive.google.com/file/d/19ODh2S0iyCASbNi6iuqC7BlTdsaNp_qK/view?usp=sharing)|
 
