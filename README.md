@@ -14,10 +14,16 @@
 ### Ejercicio Práctico Integral
 
 - **Descripción del Ejericio 18**:CONTROL DE VENTILACIÓN EN PLANTAS CON SERVO Y DHT
-           -    **Componentes**: DHT11,servo motor, LED RGB, OLED.                                                                                            
+
+  
+           -    **Componentes**: DHT11,servo motor, LED RGB, OLED.
+
+                                                                                   
            -    **Descripción**: Según la humedad, el servo controla un "ventilador" en un 
                invernadero.La 
-               OLED muestra los valoroes, y el LED RGB indica si está en niveles óptimos. 
+               OLED muestra los valoroes, y el LED RGB indica si está en niveles óptimos.
+
+  
 - **Código y Circuito**: Disponible en la carpeta [`Ejercicio_Practico_Integral`](Ejercicio_Practico_Integral)
 - **Video de demostración**: [Enlace al video de demostración](https://drive.google.com/drive/u/1/folders/1o47CB6RPJIRe-7IU7Vzuq3KmIt1-O2Zt)
 
