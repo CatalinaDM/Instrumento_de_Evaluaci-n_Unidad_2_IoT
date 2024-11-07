@@ -1,6 +1,11 @@
 
 # Evaluación de la Unidad 2 - Principios de IoT
-# Autor: Delgado Manzano Carmen Catalina    GDS0643
+# Datos del alumno
+| Asingación | Información |
+|--|--|
+| Alumno | Delgado Manzano Carmen Catalina |
+| Número de control | 1223100422 |
+| Gupo | GDS0643 |
 
 ## Índice
 1. [Ejercicio Práctico Integral](#ejercicio-práctico-integral)
@@ -10,6 +15,8 @@
 5. [Coevaluación](#coevaluación)
 
 ---
+
+
 
 ### Ejercicio Práctico Integral
 
@@ -29,26 +36,34 @@
 
 ---
 
+
+
 ### Ejercicios en Clase
 Esta sección incluye los ejercicios realizados en clase, enfocados en el uso de sensores, actuadores y ESP32.
 
-- **Descripción**: Cada ejercicio cuenta con un circuito bien construido y código funcional.
-- **Carpeta**: [`Ejercicios_Clase`](Ejercicios_Clase)
-- **Lista de Ejercicios**:
-  - **Ejercicio 1**: [Breve descripción]
-  - **Ejercicio 2**: [Breve descripción]
-  - *(Agrega una breve descripción de cada ejercicio)*
+- **Descripción**:Son todos los ejercicios realizados en clase con Python y Arduino.
+
+- - ** Carpeta con todos los videos**: [Enlace a la carpeta con todos los videos](https://drive.google.com/drive/folders/19F25CP05HKQDIBY9gIEUQUftPM5zjZ9G?usp=sharing)
+  
+- **Carpeta con los videos en-listados**: [`Ejercicios_Clase`](Ejercicios_Clase)
 
 ---
 
-### Proyecto Navideño
-Aquí se documentan los avances en el proyecto navideño.
 
-- **Descripción de avances**: [Descripción breve de las mejoras implementadas]
+
+### Proyecto Navideño
+- **Descripción de avances**
+
+| Personaje| Jack |
+|--|--|
+| Descripción | Para el proyecto, se está creando una representación del personaje Jack de la película El extraño mundo de Jack con varias funciones interactivas. Este muñeco navideño utiliza un sensor de distancia para detectar personas. Cuando alguien se acerca a menos de 50 cm, Jack moverá las manos y mostrará el mensaje "Feliz Navidad" en una matriz LED; si la persona se aleja, las manos regresan a una posición neutral.Además, se incluirá un árbol de Navidad decorado con LEDs RGB en forma de cascada, cambiando de color de manera secuencial. También se añadirá una caja de regalo junto al árbol, con un servo que hará que el perro de Jack aparezca al detectar movimiento.Por último, al detectar a alguien cerca, sonará una canción a través de un buzzer, que se puede encender o apagar mediante un botón interactivo para que el público controle la música. |
+
 - **Carpeta**: [`Proyecto_Navideño`](Proyecto_Navideño)
 - **Video de demostración**: [Enlace al video de demostración](enlace_al_video)
 
 ---
+
+
 
 ### Curso Python en NetAcad
 Avance documentado en el curso de Python en NetAcad.
@@ -58,13 +73,21 @@ Avance documentado en el curso de Python en NetAcad.
 
 ---
 
+
 ### Coevaluación
-En esta sección se incluye la retroalimentación para el trabajo de un compañero.
 
-- **Retroalimentación a [José Francisco]**:
-  - **Aspectos Positivos**: [Lo que hizo bien]
-  - **Áreas de Mejora**: [Sugerencias para mejorar]
-  - **Comentarios Técnicos**: [Observaciones sobre el circuito o código]
+# Datos del compañero a evaluar 
+| Asingación | Información |
+|--|--|
+| Alumno | Juan Francisco Rodriguez Guerrero  |
+| Número de control |1223100441|
+| Gupo | GDS0643 |
 
-- **Texto de coevaluación**: Disponible en la carpeta [`Coevaluacion`](Coevaluacion)
+  - **Aspectos Positivos**: Mi compañero Francisco mostro un gran desempeño a la hora de realizar el còdigo y no se le dificulto ningun aspecto respecto a la declaracion o inicializacion de los componentes, es muy agil a la hora de buscar las maneras de resolver el problema planteado.
+Ademàs demostro compañerismo a la hora de implementar las conexiones a la placa ESP32, siempre se tuvo comunicaciòn de que es lo que se iba a hacer y nos ibamos apoyando respecto a la conexion de todos los componetes, demuestra gran conocimiento de cada componente  y los temas fundamentales y se dirige con buenos tecnicismos.
+
+  - **Áreas de Mejora**: Su personalidad es muy relajada lo que se refleja en el trabajo, a veces suele ser un poco distraido al momento de conectar los componentes y conectaba algun cable al reves por lo que podian llegar a surgir que no funcionara, pero cuando surgian errores, cuando lo comentabamos y se preguntaba si estaba bien conectado, èl mismo podia darse cuenta que puedò haber conectado mal ciertas cosas por lo que, a mi parecer si sabe pero tal vez le hace falta un poco màs de concentraciòn.
+
+
+
 
