@@ -32,10 +32,6 @@ Uso de un Botón para Alternar Funcionalidades: Para el botón, usaría una inte
 
 Resetear Componentes: Finalmente, al inicio del programa (antes de entrar en el bucle principal), haría una llamada a una función de "reseteo" que asegure que todos los componentes (servos, buzzer) inicien en una posición predeterminada. Esto evitaría que los servos o el buzzer se activen accidentalmente en posiciones o estados no deseados al iniciar el sistema.
 
-En resumen, estructuraría el sistema para que el sensor de distancia controle la activación de los servos y el buzzer en función de la proximidad, mientras que el botón permite un control manual adicional del buzzer. La lógica de bucle infinito (while True) garantiza que el sistema esté monitoreando continuamente y listo para reaccionar en tiempo real.
-
-
-
 
 
 
