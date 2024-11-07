@@ -12,9 +12,11 @@
 ---
 
 ### Ejercicio Práctico Integral
-En esta sección, completé un ejercicio que demuestra el encendido, apagado o control de componentes en respuesta a sensores o disparadores. 
 
-- **Descripción**: [Descripción breve de lo que hace el ejercicio]
+- **Descripción**:Ejercicio 18: CONTROL DE VENTILACIÓN EN PLANTAS CON SERVO Y DHT
+-    **Componentes**: DHT11,servo motor, LED RGB, OLED
+-    **Descripción**: Según la humedad, el servo controla un "ventilador" en un invernadero.La 
+      OLED muestra los valoroes, y el LED RGB indica si está en niveles óptimos. 
 - **Código y Circuito**: Disponible en la carpeta [`Ejercicio_Practico_Integral`](Ejercicio_Practico_Integral)
 - **Video de demostración**: [Enlace al video de demostración](https://drive.google.com/drive/u/1/folders/1o47CB6RPJIRe-7IU7Vzuq3KmIt1-O2Zt)
 
