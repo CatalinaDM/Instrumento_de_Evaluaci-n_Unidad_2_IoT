@@ -59,7 +59,7 @@ Esta sección incluye los ejercicios realizados en clase, enfocados en el uso de
 | Descripción | Para el proyecto, se está creando una representación del personaje Jack de la película El extraño mundo de Jack con varias funciones interactivas. Este muñeco navideño utiliza un sensor de distancia para detectar personas. Cuando alguien se acerca a menos de 50 cm, Jack moverá las manos y mostrará el mensaje "Feliz Navidad" en una matriz LED; si la persona se aleja, las manos regresan a una posición neutral.Además, se incluirá un árbol de Navidad decorado con LEDs RGB en forma de cascada, cambiando de color de manera secuencial. También se añadirá una caja de regalo junto al árbol, con un servo que hará que el perro de Jack aparezca al detectar movimiento.Por último, al detectar a alguien cerca, sonará una canción a través de un buzzer, que se puede encender o apagar mediante un botón interactivo para que el público controle la música. |
 
 - **Carpeta**: [`Proyecto_Navideño`](Proyecto_Navideño)
-- **Video de demostración**: [Enlace al video de demostración](https://drive.google.com/file/d/19A6oRRqPATMFhrP-wInig2IHFU9zGOD3/view?usp=drivesdk))
+- **Video de demostración**: [Enlace al video de demostración](https://drive.google.com/file/d/19A6oRRqPATMFhrP-wInig2IHFU9zGOD3/view?usp=drivesdk)
 
 ---
 
