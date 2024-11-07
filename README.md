@@ -45,7 +45,7 @@ Esta sección incluye los ejercicios realizados en clase, enfocados en el uso de
 
 - - ** Carpeta con todos los videos**: [Enlace a la carpeta con todos los videos](https://drive.google.com/drive/folders/19F25CP05HKQDIBY9gIEUQUftPM5zjZ9G?usp=sharing)
   
-- **Carpeta con los videos en-listados**: [`Ejercicios_En_Clase`](Ejercicio_En_Clase)
+- **Carpeta con los videos en-listados**: [`Ejercicios_En_Clase`](Videos_Y_Descripcion.md)
 
 ---
 
